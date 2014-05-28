@@ -1,4 +1,4 @@
-SDVX-Control-for-teensy3.0-
+SDVX-Controller-for-teensy3.0
 ===========================
 License: MIT License
 
